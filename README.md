@@ -1,4 +1,4 @@
-<img src="media/codecamp/201908-/MLKamenRider.jpg" width="90%">
+![image](https://pythonchannel.com/media/codecamp/201908-/MLKamenRider.jpg)
 
 + [YouTube](https://youtu.be/k2afQgH4n24)
 
