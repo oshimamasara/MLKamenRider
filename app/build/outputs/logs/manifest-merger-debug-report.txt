@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+MERGED from [com.android.support:design:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/71abee1e1840cfc051285ea5fe41b452/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/207f1e696f2c83fa62f0d8aec751cfea/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v13:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/32074f2d706a7d67adc38546a9e267c4/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/13e8a273b19f93253640ea8371558579/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/31d2bed9a4d27619e30ac8519fc1af1d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/4d8d78a6db63c917cda2de471ebbeaac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/9a02058da2976e20f9975952d5dfc79c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:support-v4:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a413a49f9073fde08829e3dfe7295164/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-fragment:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/58c3c3f050940c4b8f944c6a4900c08f/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/668858917da3e4c239ab2e95440e78f0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c5dc8a2fd09ac3a018c384812b7739b9/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/758c563a9e22f6f3b9702b83e3a71509/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/275ff38076fc621a9d4d5a60ed7cc71d/AndroidManifest.xml:17:1-27:12
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/08adf408c5f3960722fe1428d7928c86/AndroidManifest.xml:2:1-10:12
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+	package
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:19:5-46
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:1-40:12
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:23:5-60
+	android:name
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:23:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:24:5-70
+	android:name
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:24:19-67
+application
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:5-38:19
+MERGED from [com.android.support:design:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/71abee1e1840cfc051285ea5fe41b452/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/71abee1e1840cfc051285ea5fe41b452/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/207f1e696f2c83fa62f0d8aec751cfea/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/207f1e696f2c83fa62f0d8aec751cfea/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/32074f2d706a7d67adc38546a9e267c4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v13:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/32074f2d706a7d67adc38546a9e267c4/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/13e8a273b19f93253640ea8371558579/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/13e8a273b19f93253640ea8371558579/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/31d2bed9a4d27619e30ac8519fc1af1d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/31d2bed9a4d27619e30ac8519fc1af1d/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/9a02058da2976e20f9975952d5dfc79c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:transition:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/9a02058da2976e20f9975952d5dfc79c/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a413a49f9073fde08829e3dfe7295164/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a413a49f9073fde08829e3dfe7295164/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/58c3c3f050940c4b8f944c6a4900c08f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/58c3c3f050940c4b8f944c6a4900c08f/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/668858917da3e4c239ab2e95440e78f0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/668858917da3e4c239ab2e95440e78f0/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c5dc8a2fd09ac3a018c384812b7739b9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c5dc8a2fd09ac3a018c384812b7739b9/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/758c563a9e22f6f3b9702b83e3a71509/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/758c563a9e22f6f3b9702b83e3a71509/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/275ff38076fc621a9d4d5a60ed7cc71d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/275ff38076fc621a9d4d5a60ed7cc71d/AndroidManifest.xml:25:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/08adf408c5f3960722fe1428d7928c86/AndroidManifest.xml:8:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/08adf408c5f3960722fe1428d7928c86/AndroidManifest.xml:8:5-20
+	android:label
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:27:9-41
+	android:icon
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:28:9-45
+	android:allowBackup
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:26:18-44
+	android:theme
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:29:9-45
+activity#com.oshimamasara.ML.Kamen_Rider.CameraActivity
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:31:9-37:20
+	android:label
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:32:19-51
+	android:name
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:31:19-80
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:33:13-36:29
+action#android.intent.action.MAIN
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:35:17-77
+	android:name
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml:35:27-74
+uses-sdk
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/71abee1e1840cfc051285ea5fe41b452/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/71abee1e1840cfc051285ea5fe41b452/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/207f1e696f2c83fa62f0d8aec751cfea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/207f1e696f2c83fa62f0d8aec751cfea/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v13:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/32074f2d706a7d67adc38546a9e267c4/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v13-25.2.0.aar/32074f2d706a7d67adc38546a9e267c4/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/13e8a273b19f93253640ea8371558579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.2.0.aar/13e8a273b19f93253640ea8371558579/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/31d2bed9a4d27619e30ac8519fc1af1d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-vector-drawable:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.2.0.aar/31d2bed9a4d27619e30ac8519fc1af1d/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/4d8d78a6db63c917cda2de471ebbeaac/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.2.0.aar/4d8d78a6db63c917cda2de471ebbeaac/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/9a02058da2976e20f9975952d5dfc79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/transition-25.2.0.aar/9a02058da2976e20f9975952d5dfc79c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a413a49f9073fde08829e3dfe7295164/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-v4-25.2.0.aar/a413a49f9073fde08829e3dfe7295164/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/58c3c3f050940c4b8f944c6a4900c08f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-fragment-25.2.0.aar/58c3c3f050940c4b8f944c6a4900c08f/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/668858917da3e4c239ab2e95440e78f0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.2.0.aar/668858917da3e4c239ab2e95440e78f0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c5dc8a2fd09ac3a018c384812b7739b9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.2.0.aar/c5dc8a2fd09ac3a018c384812b7739b9/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/758c563a9e22f6f3b9702b83e3a71509/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.2.0.aar/758c563a9e22f6f3b9702b83e3a71509/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/275ff38076fc621a9d4d5a60ed7cc71d/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/support-compat-25.2.0.aar/275ff38076fc621a9d4d5a60ed7cc71d/AndroidManifest.xml:21:5-23:58
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/08adf408c5f3960722fe1428d7928c86/AndroidManifest.xml:5:5-6:41
+MERGED from [org.tensorflow:tensorflow-lite:1.14.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.14.0.aar/08adf408c5f3960722fe1428d7928c86/AndroidManifest.xml:5:5-6:41
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.2.0] /home/oshimamasara/.gradle/caches/transforms-1/files-1.1/design-25.2.0.aar/71abee1e1840cfc051285ea5fe41b452/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		ADDED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		MERGED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml
+		INJECTED from /media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/src/main/AndroidManifest.xml

@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/oshimamasara/TTT/6/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/oshimamasara/TTT/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/oshimamasara/Data256GB4/Published/GooglePlay/tensorflow-for-poets-2-master/android/tflite/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/home/oshimamasara/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.2.0.aar/498ad6e4088157111cade0a85cc585d1/res/values-v18/values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
